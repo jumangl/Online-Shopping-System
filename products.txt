@@ -1,0 +1,64 @@
+Clothing Product
+ID: c123
+Name: ssas
+Available Count: 12
+Price: 1000.0
+Size: M
+Color: Red
+-----------------------------
+Clothing Product
+ID: B001
+Name: Shirt
+Available Count: 3
+Price: 39.99
+Size: S
+Color: White
+-----------------------------
+Electronics Product
+ID: A203
+Name: Dishwasher
+Available Count: 10
+Price: 500.0
+Brand: Boh
+Warranty Period: 36.0
+-----------------------------
+Electronics Product
+ID: A1000
+Name: TV
+Available Count: 5
+Price: 299.99
+Brand: Samsung
+Warranty Period: 12.0
+-----------------------------
+Clothing Product
+ID: B201
+Name: Leggings
+Available Count: 2
+Price: 22.9
+Size: M
+Color: Black
+-----------------------------
+Clothing Product
+ID: 1
+Name: 
+Available Count: 67
+Price: 78.8
+Size: 87
+Color: 87
+-----------------------------
+Electronics Product
+ID: x2
+Name: wee
+Available Count: 50
+Price: 234.0
+Brand: asdf
+Warranty Period: 23.0
+-----------------------------
+Electronics Product
+ID: D3
+Name: aosijds
+Available Count: 1321
+Price: 123.0
+Brand: oaisjdoiaj
+Warranty Period: 2.0
+-----------------------------
